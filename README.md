@@ -1,0 +1,19 @@
+### Modify Table
+### INSERT INTO
+        INSERT INTO table_name (column1, column2, ...)
+        VALUES (value1, value2, ...);
+Add new rows into a table
+
+### UPDATE 
+        UPDATE table_name
+        SET column1 = value1, column2 = value2, ...
+        WHERE condition;
+Modify existing data in a table.
+
+### DELETE
+        DELETE FROM table_name
+        WHERE condition;
+Remove rows from a table and table;
+
+![image alt]()
+  
