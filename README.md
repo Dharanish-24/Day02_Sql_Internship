@@ -11,7 +11,7 @@ Add new rows into a table
         SET column1 = value1, column2 = value2, ...
         WHERE condition;
 Modify existing data in a table.
-![image alt](https://github.com/Dharanish-24/Day02_Sql_Internship/blob/main/Screenshot%202025-06-25%20153621.png)
+![image alt](https://github.com/Dharanish-24/Day02_Sql_Internship/blob/main/Screenshot%202025-06-25%20153721.png)
   
 
 ### DELETE
