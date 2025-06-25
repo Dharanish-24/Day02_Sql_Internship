@@ -17,7 +17,12 @@ Modify existing data in a table.
 ### DELETE
         DELETE FROM table_name
         WHERE condition;
-Remove rows from a table and table;
+Remove rows from a table and table.
 
-![image alt](https://github.com/Dharanish-24/Day02_Sql_Internship/blob/main/Screenshot%202025-06-25%20153621.png)
+![image alt](https://github.com/Dharanish-24/Day02_Sql_Internship/blob/main/Screenshot%202025-06-25%20153800.png)
+
+### SELECT
+        SELECT * FROM table_name;
+Returns entire table.
+
   
